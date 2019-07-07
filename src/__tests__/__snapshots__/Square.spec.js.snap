@@ -6,3 +6,10 @@ exports[`Square component Matches the snapshot 1`] = `
   onClick={[Function]}
 />
 `;
+
+exports[`Square component Matches the snapshot 2`] = `
+<button
+  className="square"
+  onClick={[Function]}
+/>
+`;
